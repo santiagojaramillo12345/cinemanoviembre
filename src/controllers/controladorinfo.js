@@ -28,3 +28,6 @@ etiquetaDuracion.textContent=peliculasConsultadaEnMemoria.duracion
 
 let etiquestasinopsis=document.getElementById("sipnosisPelicula")
 etiquestasinopsis.textContent=peliculasConsultadaEnMemoria.sinopsis
+
+let etiquestabanner=document.getElementById("banner")
+etiquestabanner.src=peliculasConsultadaEnMemoria.banner
