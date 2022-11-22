@@ -1,4 +1,4 @@
-let nombres=["juan","yasuri","hector","tito","ivy"]
+//let nombres=["juan","yasuri","hector","tito","ivy"]
 
 //escribir un ciclo que repita una acción
 /*for(let i=0; i<nombres.length; i++){
@@ -21,10 +21,12 @@ salarios.forEach(function(salario){
     console.log(salario-(salario*19/100))
 })*/
 
-let calificaciones=[3.5,4,2,1.5,3]
+//let calificaciones=[3.5,4,2,1.5,3]
 //sumar las notas y calcular el promedio de esas notas
-let suma=0
-calificaciones.forEach(function(calificacion){
-    suma=suma+calificacion   
-})
-console.log(suma/calificaciones.length)
+//let suma=0
+//calificaciones.forEach(function(calificacion){
+  //  suma=suma+calificacion   })console.log(suma/calificaciones.length)
+
+
+  suma=5
+  console.log(suma)
